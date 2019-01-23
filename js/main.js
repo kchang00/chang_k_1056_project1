@@ -1,14 +1,5 @@
-// create a pickle jar, labeled as firstName, put string in it
-// string = text inside
-var firstName = "Kayla";
+var prof = "Prof. De Luca";
 
-//alert("Hello " + firstName);
-
-//modern js
-
-//alert(`Hello ${firstName} !!!`);
-
-//console helps check things, find error in code
-//console.log(firstName);
+alert(`Hello ${prof} !!!`);
 
 console.log("Javascript is linked");
