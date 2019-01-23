@@ -7,3 +7,4 @@
 - Modified index
 - Added CSS reset
 - Added JS
+- Modified JS
